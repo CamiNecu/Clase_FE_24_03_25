@@ -15,7 +15,7 @@ body{
 main{
     max-width: 800px;
     margin: auto;
-    padding: 20px;
+    padding: 20p;
     box-shadow: 0 0 10px rgb(128, 56, 654);
 
 }
@@ -29,3 +29,20 @@ header{
     background-repeat: no-repeat;
     background-position: center;
 }
+
+header figure img{
+    border-radius:  50%;
+    border: 5px solid slateblue;
+    box-shadow: 0px 0px 10px;
+}
+
+header h1{
+    font-size: 2em;
+    margin-top: 10px;
+}
+
+header h2{
+    font-size: 2em;
+    margin-top: 10px;
+}
+
